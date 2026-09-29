@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titulo": "La IA física aprende a trabajar con nosotros",
+    "categoria": "IA",
+    "descripcionCorta": "Robots generalistas cruzan la frontera entre la demostración y el trabajo cotidiano.",
+    "contenidoCompleto": "A las 8:12 de la mañana, un robot recibe una instrucción que nunca ha ejecutado: preparar tres estaciones de trabajo para un equipo de prototipado. Observa el espacio, pregunta por una herramienta que no reconoce y completa la tarea en menos de nueve minutos.\n\nLos nuevos modelos visión-lenguaje-acción permiten que el robot traduzca una orden ambigua en una secuencia de movimientos, compruebe el resultado y corrija errores sin reiniciar todo el proceso.\n\nEl avance no está en una mano más precisa, sino en que la máquina sepa cuándo necesita pedir ayuda. Los equipos más maduros diseñan esa colaboración como parte del producto.",
+    "fecha": "2026-09-25",
+    "autor": "Martín Cordero",
+    "imagen": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=1200&q=70",
+    "esDestacada": true
+  },
+  {
+    "id": 2,
+    "titulo": "Modelos pequeños, impacto enorme",
+    "categoria": "IA",
+    "descripcionCorta": "La nueva generación de IA local cabe en un portátil y cambia la privacidad del producto.",
+    "contenidoCompleto": "Los modelos de lenguaje compactos ya corren en un portátil convencional sin conexión a internet, con calidad suficiente para resumir, clasificar y buscar por significado.\n\nPara los equipos de producto esto cambia la ecuación: los datos sensibles no salen del dispositivo, la latencia desaparece y el costo por consulta se vuelve cero.\n\nLa pregunta ya no es si un modelo pequeño puede reemplazar a una API, sino en qué tareas concretas vale la pena hacerlo.",
+    "fecha": "2026-09-29",
+    "autor": "Valentina Mora",
+    "imagen": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=70",
+    "esDestacada": false
+  },
+  {
+    "id": 3,
+    "titulo": "WebAssembly sale del laboratorio",
+    "categoria": "Desarrollo",
+    "descripcionCorta": "El nuevo runtime acerca aplicaciones creativas de alto rendimiento directamente al navegador.",
+    "contenidoCompleto": "WebAssembly dejó de ser una promesa: editores de video, motores de juegos y herramientas de diseño ya se ejecutan en el navegador con un rendimiento cercano al nativo.\n\nLa madurez del ecosistema, con mejores depuradores y soporte de hilos, permite portar bases de código completas escritas en Rust, C++ o Go.\n\nPara los desarrolladores web, el reto ahora es decidir qué parte de la aplicación merece salir de JavaScript.",
+    "fecha": "2026-09-28",
+    "autor": "Andrés Beltrán",
+    "imagen": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?auto=format&fit=crop&w=1200&q=70",
+    "esDestacada": false
+  },
+  {
+    "id": 4,
+    "titulo": "Diseñar para agentes, no solo personas",
+    "categoria": "Desarrollo",
+    "descripcionCorta": "Los sistemas de diseño documentan intención, contexto y acciones para interfaces cada vez más autónomas.",
+    "contenidoCompleto": "Las interfaces ya no las usan solo personas: los agentes de software leen pantallas, llaman a herramientas y toman decisiones en nombre del usuario.\n\nLos sistemas de diseño más avanzados documentan la intención de cada componente, los estados posibles y las acciones permitidas, para que un agente pueda usarlos sin ambigüedad.\n\nAccesibilidad y agentes comparten la misma base: estructura semántica clara y etiquetas honestas.",
+    "fecha": "2026-09-27",
+    "autor": "Lucía Herrera",
+    "imagen": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=1200&q=70",
+    "esDestacada": false
+  },
+  {
+    "id": 5,
+    "titulo": "El taller doméstico se vuelve inteligente",
+    "categoria": "Tecnología",
+    "descripcionCorta": "Sensores abiertos y fabricación local convierten ideas de fin de semana en productos útiles.",
+    "contenidoCompleto": "Impresoras 3D asequibles, microcontroladores y sensores de código abierto han convertido el garaje en un laboratorio de prototipado.\n\nLas comunidades maker comparten diseños, firmware y guías de montaje, lo que reduce de meses a días el tiempo entre una idea y un dispositivo funcional.\n\nAlgunos de estos proyectos ya se convierten en pequeños negocios de hardware con producción bajo demanda.",
+    "fecha": "2026-09-26",
+    "autor": "Camila Ríos",
+    "imagen": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=70",
+    "esDestacada": false
+  },
+  {
+    "id": 6,
+    "titulo": "El código vuelve a ser un medio creativo",
+    "categoria": "Tecnología",
+    "descripcionCorta": "Una generación de artistas reclama el navegador como escenario, lienzo y herramienta.",
+    "contenidoCompleto": "Shaders, música generativa y visualizaciones de datos han hecho del navegador un espacio de experimentación artística.\n\nHerramientas como Three.js, p5.js y WebGPU permiten a diseñadores sin formación técnica profunda producir obras interactivas que antes exigían un estudio completo.\n\nEl código deja de ser solo infraestructura y vuelve a ser un lenguaje para expresarse.",
+    "fecha": "2026-09-24",
+    "autor": "Nicolás Duarte",
+    "imagen": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=1200&q=70",
+    "esDestacada": false
+  }
+]

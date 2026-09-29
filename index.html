@@ -1,0 +1,22 @@
+<!doctype html>
+<!-- Documento único de VibeWire: la navegación interna funciona mediante hashes sin recargar la página. -->
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- La etiqueta viewport permite que la composición se adapte a móviles y tablets. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Metadatos básicos para compartir y describir la publicación. -->
+    <meta name="description" content="VibeWire: noticias y análisis sobre tecnología, IA y desarrollo." />
+    <meta name="theme-color" content="#080d14" />
+    <title>VibeWire · Noticias de tecnología</title>
+    <meta property="og:image" content="https://bolt.new/static/og_default.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://bolt.new/static/og_default.png">
+</head>
+  <body>
+    <!-- Punto de montaje de la aplicación Vanilla JavaScript. -->
+    <div id="app"></div>
+    <!-- Vite carga el módulo principal, que a su vez inicia la SPA. -->
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
