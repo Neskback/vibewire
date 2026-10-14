@@ -14,7 +14,7 @@ const CATEGORIES = ['IA', 'Desarrollo', 'Tecnología', 'Cultura'];
 const ROUTES = ['home', 'noticias', 'detalle', 'favoritos', 'crear', 'contacto', 'auth'];
 
 /* Estado único de la aplicación: la sesión y los datos vienen del servidor. */
-const state = { news: Array.isArray(catalogoLocal) ? catalogoLocal.map(fromDatabase) : [], favorites: [], session: null, query: '', category: 'Todas', page: 1, pendingDelete: null, editingId: null, loading: true };
+const state = { news: Array.isArray(catalogoLocal) ? [...catalogoLocal] : [], favorites: [], session: null, query: '', category: 'Todas', page: 1, pendingDelete: null, editingId: null, loading: true };
 
 /* ---------------------------------------------------------------------
    Utilidades y adaptación de datos
