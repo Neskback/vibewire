@@ -1,8 +1,8 @@
 # VibeWire Alfa — Documentación del Proyecto
 
-**Autor:** Estudiante de Ingeniería de Sistemas  
+**Autor:** york garcia
 **Fecha:** Octubre 2026  
-**Materia:** [Nombre de la materia]
+
 
 ---
 
